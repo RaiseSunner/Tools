@@ -1,7 +1,7 @@
 package rtmtokenbuilder
 
 import (
-	accesstoken "github.com/anyRTC/Tools/DynamicKey/ARDynamicKey/go/src/AccessToken"
+	accesstoken "github.com/RaiseSunner/Tools/DynamicKey/ARDynamicKey/go/src/AccessToken"
 )
 
 // Role Type
